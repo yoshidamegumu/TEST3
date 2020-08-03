@@ -8,7 +8,7 @@ namespace TEST
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
-/**/
+/*　*/
         }
     }
 }
